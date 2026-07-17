@@ -64,9 +64,9 @@ The project repository is structured cleanly into modular environments:
 
 👨‍💻 Developed By
 
-Kalluri Charishma
+Cheepurupalli Naga Jyothi
 
-B.Tech – Computer Science and Engineering (Data Science)
+B.Tech – Computer Science and Engineering (Artifificial Intelligence and Machine Learning) 
 
 📜 License
 
